@@ -1,0 +1,4 @@
+baseURL = "http://www.conorsobrien.com/"
+languageCode = "en-us"
+title = "Conor O Brien"
+theme = "ink"
